@@ -18,5 +18,5 @@ from django.urls import path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('page2/',views.page2)
+    path('page1/',views.page1)
 ]
